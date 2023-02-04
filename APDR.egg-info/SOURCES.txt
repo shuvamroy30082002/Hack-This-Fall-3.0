@@ -1,0 +1,7 @@
+setup.py
+APDR.egg-info/PKG-INFO
+APDR.egg-info/SOURCES.txt
+APDR.egg-info/dependency_links.txt
+APDR.egg-info/entry_points.txt
+APDR.egg-info/requires.txt
+APDR.egg-info/top_level.txt
